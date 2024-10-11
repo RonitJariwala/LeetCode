@@ -9,9 +9,13 @@ The repository is organized by problem type or topic. Each directory contains pr
 - **Problem Description**: A brief description of the problem, along with the problem number.
 - **Solution**: My solution to the problem, written in C++, Python, JavaScript, or any other programming language.
 
-### 📁 Folder Structure:
+## Folder Structure
 
-Each folder contains files that correspond to the LeetCode problem solutions, with the filenames generally following the convention:
+The repository is organized into the following folders, categorized by different problem types:
+. ├── Arrays/ ├── Strings/ ├── Linked Lists/ ├── Trees/ ├── Graphs/ ├── Dynamic Programming/ ├── Recursion/ └── Others/
+
+Each folder contains solution files for various LeetCode problems related to the specific topic.
+
 
 ### Example:
 
