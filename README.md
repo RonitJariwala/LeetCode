@@ -30,18 +30,6 @@ Each folder contains C++ solutions for various problems, organized by the proble
 
 Feel free to explore and contribute!
 
-## Getting Started
-
-Clone this repository using the following command:
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-
-
-
-
-### Example:
-
 ## 📝 Content Overview
 
 I have categorized the problems into different folders based on the problem type:
