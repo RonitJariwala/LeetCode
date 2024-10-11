@@ -81,8 +81,3 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 **Happy Coding! 🚀**
 """
 
-# Write this content into a README file
-with open('/mnt/data/README.md', 'w') as file:
-    file.write(content)
-
-'/mnt/data/README.md'  # Return the path to the created README file.
