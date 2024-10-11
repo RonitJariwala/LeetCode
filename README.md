@@ -33,7 +33,6 @@ I have categorized the problems into different folders based on the problem type
 Here are the languages I've used to solve problems:
 - C++
 - Python
-- JavaScript
 - Java
 
 I try to write solutions in multiple languages where possible to enhance my problem-solving skills across languages.
