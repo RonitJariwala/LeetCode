@@ -1,6 +1,3 @@
-# Let's create a README file based on the provided template.
-
-content = """
 # 📚 LeetCode Solutions Repository
 
 Welcome to my LeetCode solutions repository! This repository contains all the coding solutions I've implemented for various LeetCode problems, including problems from different difficulty levels and topics such as data structures, algorithms, and more. I update this repository regularly as I solve new problems.
