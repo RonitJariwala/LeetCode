@@ -72,12 +72,3 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 ---
 
 ## Happy Coding! 🚀
-
-
-
-| [0042-trapping-rain-water](https://github.com/RonitJariwala/LeetCode/tree/master/0042-trapping-rain-water) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/RonitJariwala/LeetCode/tree/master/0042-trapping-rain-water) |
-<!---LeetCode Topics End-->
