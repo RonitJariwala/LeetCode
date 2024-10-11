@@ -1,3 +1,22 @@
+# Let's create a README file based on the provided template.
+
+content = """
+# 📚 LeetCode Solutions Repository
+
+Welcome to my LeetCode solutions repository! This repository contains all the coding solutions I've implemented for various LeetCode problems, including problems from different difficulty levels and topics such as data structures, algorithms, and more. I update this repository regularly as I solve new problems.
+
+## 📂 Repository Structure
+
+The repository is organized by problem type or topic. Each directory contains problem-specific files, which include:
+- **Problem Name**: The name of the problem as it appears on LeetCode.
+- **Problem Description**: A brief description of the problem, along with the problem number.
+- **Solution**: My solution to the problem, written in C++, Python, JavaScript, or any other programming language.
+
+### 📁 Folder Structure:
+
+Each folder contains files that correspond to the LeetCode problem solutions, with the filenames generally following the convention:
+
+### Example:
 
 ## 📝 Content Overview
 
