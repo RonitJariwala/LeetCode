@@ -9,27 +9,6 @@ The repository is organized by problem type or topic. Each directory contains pr
 - **Problem Description**: A brief description of the problem, along with the problem number.
 - **Solution**: My solution to the problem, written in C++, Python, JavaScript, or any other programming language.
 
-## Folder Structure
-
-The repository is organized into the following folders:
-
-### Folder Descriptions:
-
-- **Arrays/**: Problems related to arrays, searching, sorting, and subarrays.
-- **Strings/**: Solutions to string manipulation, substring problems, and pattern matching.
-- **Linked Lists/**: Contains problems on singly and doubly linked lists, list manipulation, and operations.
-- **Trees/**: Binary trees, binary search trees (BST), and other tree-based problem solutions.
-- **Graphs/**: Solutions for graph traversal, shortest paths, and connected components.
-- **Dynamic Programming/**: Problems on dynamic programming techniques such as knapsack, LIS, and DP on trees.
-- **Recursion/**: Includes problems that use recursion and backtracking techniques.
-- **Others/**: Miscellaneous problems that do not fall into the above categories.
-
-## How to Use
-
-Each folder contains C++ solutions for various problems, organized by the problem type. You can navigate to the respective folders to view the solution for a particular problem.
-
-Feel free to explore and contribute!
-
 ## 📝 Content Overview
 
 I have categorized the problems into different folders based on the problem type:
