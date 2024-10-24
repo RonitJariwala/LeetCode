@@ -1,24 +1,28 @@
 class Solution {
 public:
     int candy(vector<int>& ratings) {
-        int n=ratings.size();
-        int left[n],right[n];
-        left[0]=1,right[n-1]=1;
-        for(int i=1;i<n;i++){
-            if(ratings[i]>ratings[i-1])
-                left[i]=left[i-1]+1;
-            else
-                left[i]=1;
-        }
-        for(int i=n-2;i>=0;i--){
-            if(ratings[i]>ratings[i+1])
-                right[i]=right[i+1]+1;
-            else 
-                right[i]=1;
-        }
-        int sum=0;
-        for(int i=0;i<n;i++){
-            sum+=max(left[i],right[i]);
+        int sum=1,i=1,n=ratings.size();
+        while(i<n){
+            if(i<n && ratings[i]==ratings[i-1]){  //If same rating,give 1 candy and move to  the next
+                sum++;
+                i++;
+                continue;
+            }
+            int peak=1;
+            while(i<n && ratings[i]>ratings[i-1]){  // Moving upward, increase the candy count
+                peak++;
+                sum+=peak;
+                i++;
+            }
+            int down=0;
+            while(i<n && ratings[i]<ratings[i-1]){ // Moving downward, increase the candy count
+                down++;
+                sum+=down;
+                i++;
+            }
+            if(down>=peak){
+                sum+=down-peak+1;
+            }
         }
         return sum;
     }
