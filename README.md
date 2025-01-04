@@ -134,6 +134,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 ## String
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/RonitJariwala/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
@@ -152,6 +153,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0199-binary-tree-right-side-view](https://github.com/RonitJariwala/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/RonitJariwala/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -169,6 +171,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0145-binary-tree-postorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/RonitJariwala/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -190,6 +193,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0199-binary-tree-right-side-view](https://github.com/RonitJariwala/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/RonitJariwala/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -203,6 +207,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/RonitJariwala/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -224,4 +229,8 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
