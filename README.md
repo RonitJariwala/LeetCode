@@ -127,6 +127,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0094-binary-tree-inorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/RonitJariwala/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/RonitJariwala/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
@@ -154,6 +155,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0124-binary-tree-maximum-path-sum](https://github.com/RonitJariwala/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/RonitJariwala/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/RonitJariwala/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/RonitJariwala/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RonitJariwala/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -203,6 +205,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0124-binary-tree-maximum-path-sum](https://github.com/RonitJariwala/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/RonitJariwala/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/RonitJariwala/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/RonitJariwala/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RonitJariwala/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -250,14 +253,20 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/RonitJariwala/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/RonitJariwala/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RonitJariwala/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/RonitJariwala/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/RonitJariwala/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
