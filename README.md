@@ -273,4 +273,8 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/RonitJariwala/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/RonitJariwala/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
