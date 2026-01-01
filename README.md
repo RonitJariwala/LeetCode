@@ -78,6 +78,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RonitJariwala/LeetCode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/RonitJariwala/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RonitJariwala/LeetCode/tree/master/0055-jump-game) |
@@ -241,6 +242,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RonitJariwala/LeetCode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
