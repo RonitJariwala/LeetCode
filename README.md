@@ -87,6 +87,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0057-insert-interval](https://github.com/RonitJariwala/LeetCode/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/RonitJariwala/LeetCode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/RonitJariwala/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/RonitJariwala/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/RonitJariwala/LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/RonitJariwala/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -262,6 +263,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/RonitJariwala/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/RonitJariwala/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/RonitJariwala/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
