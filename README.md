@@ -91,6 +91,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0268-missing-number](https://github.com/RonitJariwala/LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/RonitJariwala/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RonitJariwala/LeetCode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/RonitJariwala/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0890-lemonade-change](https://github.com/RonitJariwala/LeetCode/tree/master/0890-lemonade-change) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
