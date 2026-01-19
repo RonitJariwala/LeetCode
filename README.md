@@ -86,6 +86,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0055-jump-game](https://github.com/RonitJariwala/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RonitJariwala/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/RonitJariwala/LeetCode/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/RonitJariwala/LeetCode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/RonitJariwala/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RonitJariwala/LeetCode/tree/master/0136-single-number) |
@@ -101,6 +102,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RonitJariwala/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RonitJariwala/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/RonitJariwala/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/RonitJariwala/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/RonitJariwala/LeetCode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/RonitJariwala/LeetCode/tree/master/0455-assign-cookies) |
@@ -118,6 +120,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/RonitJariwala/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/RonitJariwala/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/RonitJariwala/LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/RonitJariwala/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RonitJariwala/LeetCode/tree/master/0455-assign-cookies) |
