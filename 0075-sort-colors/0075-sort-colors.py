@@ -2,17 +2,19 @@ class Solution:
     def sortColors(self, nums: List[int]) -> None:
         """
         Do not return anything, modify nums in-place instead.
+        Dutch National Flag ALgorithm Three Pointers IMP
         """
-        max_val=max(nums)
-        hash_cn=[0]*(max_val+1)
-        while len(nums)>0:
-            x=nums.pop(0)
-            hash_cn[x]+=1
-        for i in range(len(hash_cn)):
-            while hash_cn[i]>0:
-                nums.append(i)
-                hash_cn[i]-=1
-        return nums
+        low,mid,high=0,0,len(nums)-1
+        while mid<=high:
+            if nums[mid]==0:
+                nums[low],nums[mid]=nums[mid],nums[low]
+                low+=1
+                mid+=1
+            elif nums[mid]==1:
+                mid+=1
+            else:
+                nums[mid],nums[high]=nums[high],nums[mid]
+                high-=1
 
 
 
