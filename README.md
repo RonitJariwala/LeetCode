@@ -98,6 +98,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0485-max-consecutive-ones](https://github.com/RonitJariwala/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0890-lemonade-change](https://github.com/RonitJariwala/LeetCode/tree/master/0890-lemonade-change) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/RonitJariwala/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0125-valid-palindrome](https://github.com/RonitJariwala/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/RonitJariwala/LeetCode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/RonitJariwala/LeetCode/tree/master/0455-assign-cookies) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/RonitJariwala/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
 | ------- |
@@ -320,4 +322,8 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RonitJariwala/LeetCode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/RonitJariwala/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
