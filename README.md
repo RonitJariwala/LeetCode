@@ -80,6 +80,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | ------- |
 | [0001-two-sum](https://github.com/RonitJariwala/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RonitJariwala/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/RonitJariwala/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/RonitJariwala/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RonitJariwala/LeetCode/tree/master/0053-maximum-subarray) |
@@ -103,6 +104,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RonitJariwala/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/RonitJariwala/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/RonitJariwala/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/RonitJariwala/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/RonitJariwala/LeetCode/tree/master/0125-valid-palindrome) |
