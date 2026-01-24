@@ -83,6 +83,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0031-next-permutation](https://github.com/RonitJariwala/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/RonitJariwala/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/RonitJariwala/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RonitJariwala/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RonitJariwala/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RonitJariwala/LeetCode/tree/master/0056-merge-intervals) |
@@ -313,6 +314,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | ------- |
 | [0007-reverse-integer](https://github.com/RonitJariwala/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RonitJariwala/LeetCode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/RonitJariwala/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/RonitJariwala/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/RonitJariwala/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/RonitJariwala/LeetCode/tree/master/0509-fibonacci-number) |
@@ -339,5 +341,6 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/RonitJariwala/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/RonitJariwala/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
