@@ -101,6 +101,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0435-non-overlapping-intervals](https://github.com/RonitJariwala/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RonitJariwala/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/RonitJariwala/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/RonitJariwala/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0890-lemonade-change](https://github.com/RonitJariwala/LeetCode/tree/master/0890-lemonade-change) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RonitJariwala/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -271,6 +272,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0128-longest-consecutive-sequence](https://github.com/RonitJariwala/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RonitJariwala/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/RonitJariwala/LeetCode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/RonitJariwala/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search
@@ -346,4 +348,8 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0048-rotate-image](https://github.com/RonitJariwala/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RonitJariwala/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RonitJariwala/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/RonitJariwala/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
