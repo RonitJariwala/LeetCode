@@ -92,6 +92,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0073-set-matrix-zeroes](https://github.com/RonitJariwala/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/RonitJariwala/LeetCode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/RonitJariwala/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/RonitJariwala/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/RonitJariwala/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RonitJariwala/LeetCode/tree/master/0136-single-number) |
@@ -143,6 +144,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0045-jump-game-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RonitJariwala/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RonitJariwala/LeetCode/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/RonitJariwala/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RonitJariwala/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RonitJariwala/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/RonitJariwala/LeetCode/tree/master/0509-fibonacci-number) |
