@@ -85,6 +85,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0045-jump-game-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/RonitJariwala/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RonitJariwala/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/RonitJariwala/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/RonitJariwala/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/RonitJariwala/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/RonitJariwala/LeetCode/tree/master/0057-insert-interval) |
@@ -333,6 +334,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RonitJariwala/LeetCode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RonitJariwala/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -342,5 +344,6 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RonitJariwala/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/RonitJariwala/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RonitJariwala/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
