@@ -98,6 +98,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0136-single-number](https://github.com/RonitJariwala/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RonitJariwala/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RonitJariwala/LeetCode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RonitJariwala/LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/RonitJariwala/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RonitJariwala/LeetCode/tree/master/0455-assign-cookies) |
@@ -133,6 +134,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0056-merge-intervals](https://github.com/RonitJariwala/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/RonitJariwala/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/RonitJariwala/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RonitJariwala/LeetCode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/RonitJariwala/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RonitJariwala/LeetCode/tree/master/0455-assign-cookies) |
@@ -273,6 +275,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/RonitJariwala/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RonitJariwala/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RonitJariwala/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/RonitJariwala/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -335,6 +338,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RonitJariwala/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
