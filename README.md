@@ -83,6 +83,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0018-4sum](https://github.com/RonitJariwala/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RonitJariwala/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/RonitJariwala/LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/RonitJariwala/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/RonitJariwala/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/RonitJariwala/LeetCode/tree/master/0048-rotate-image) |
@@ -296,6 +297,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/RonitJariwala/LeetCode/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/RonitJariwala/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/RonitJariwala/LeetCode/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/RonitJariwala/LeetCode/tree/master/0493-reverse-pairs) |
