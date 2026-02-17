@@ -120,6 +120,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0875-koko-eating-bananas](https://github.com/RonitJariwala/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/RonitJariwala/LeetCode/tree/master/0890-lemonade-change) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RonitJariwala/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RonitJariwala/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -316,6 +317,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0540-single-element-in-a-sorted-array](https://github.com/RonitJariwala/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/RonitJariwala/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/RonitJariwala/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RonitJariwala/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
 |  |
 | ------- |
