@@ -192,6 +192,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0145-binary-tree-postorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/RonitJariwala/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/RonitJariwala/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/RonitJariwala/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
@@ -204,6 +205,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0125-valid-palindrome](https://github.com/RonitJariwala/LeetCode/tree/master/0125-valid-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/RonitJariwala/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/RonitJariwala/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
