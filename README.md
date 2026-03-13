@@ -156,6 +156,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0455-assign-cookies](https://github.com/RonitJariwala/LeetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/RonitJariwala/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/RonitJariwala/LeetCode/tree/master/0890-lemonade-change) |
+| [1903-largest-odd-number-in-string](https://github.com/RonitJariwala/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -208,6 +209,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/RonitJariwala/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RonitJariwala/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/RonitJariwala/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Tree
 |  |
 | ------- |
@@ -384,6 +386,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0189-rotate-array](https://github.com/RonitJariwala/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/RonitJariwala/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/RonitJariwala/LeetCode/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/RonitJariwala/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
