@@ -211,6 +211,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0205-isomorphic-strings](https://github.com/RonitJariwala/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/RonitJariwala/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/RonitJariwala/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RonitJariwala/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/RonitJariwala/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Tree
@@ -447,4 +448,8 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RonitJariwala/LeetCode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/RonitJariwala/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
