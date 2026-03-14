@@ -208,6 +208,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0014-longest-common-prefix](https://github.com/RonitJariwala/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/RonitJariwala/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/RonitJariwala/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/RonitJariwala/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/RonitJariwala/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RonitJariwala/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -315,6 +316,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/RonitJariwala/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/RonitJariwala/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/RonitJariwala/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RonitJariwala/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/RonitJariwala/LeetCode/tree/master/0560-subarray-sum-equals-k) |
