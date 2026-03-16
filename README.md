@@ -134,6 +134,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RonitJariwala/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/RonitJariwala/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RonitJariwala/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RonitJariwala/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -177,6 +178,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RonitJariwala/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/RonitJariwala/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RonitJariwala/LeetCode/tree/master/0053-maximum-subarray) |
@@ -207,6 +209,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/RonitJariwala/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/RonitJariwala/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/RonitJariwala/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/RonitJariwala/LeetCode/tree/master/0125-valid-palindrome) |
