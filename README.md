@@ -221,6 +221,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0678-valid-parenthesis-string](https://github.com/RonitJariwala/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/RonitJariwala/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/RonitJariwala/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/RonitJariwala/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/RonitJariwala/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Tree
 |  |
@@ -333,6 +334,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0560-subarray-sum-equals-k](https://github.com/RonitJariwala/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/RonitJariwala/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -416,6 +418,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0169-majority-element](https://github.com/RonitJariwala/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/RonitJariwala/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/RonitJariwala/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Simulation
 |  |
 | ------- |
