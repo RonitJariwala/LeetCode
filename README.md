@@ -397,6 +397,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RonitJariwala/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/RonitJariwala/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RonitJariwala/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/RonitJariwala/LeetCode/tree/master/0048-rotate-image) |
@@ -407,6 +408,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RonitJariwala/LeetCode/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/RonitJariwala/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -477,5 +479,6 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RonitJariwala/LeetCode/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RonitJariwala/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
