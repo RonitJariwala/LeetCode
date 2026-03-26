@@ -137,6 +137,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0005-longest-palindromic-substring](https://github.com/RonitJariwala/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/RonitJariwala/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RonitJariwala/LeetCode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/RonitJariwala/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RonitJariwala/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/RonitJariwala/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/RonitJariwala/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -480,5 +481,6 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RonitJariwala/LeetCode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/RonitJariwala/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RonitJariwala/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
