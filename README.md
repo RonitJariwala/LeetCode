@@ -188,6 +188,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RonitJariwala/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/RonitJariwala/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RonitJariwala/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RonitJariwala/LeetCode/tree/master/0053-maximum-subarray) |
@@ -222,6 +223,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0005-longest-palindromic-substring](https://github.com/RonitJariwala/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/RonitJariwala/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/RonitJariwala/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/RonitJariwala/LeetCode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/RonitJariwala/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/RonitJariwala/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RonitJariwala/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -513,4 +515,8 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0234-palindrome-linked-list](https://github.com/RonitJariwala/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RonitJariwala/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/RonitJariwala/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/RonitJariwala/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
