@@ -93,6 +93,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0042-trapping-rain-water](https://github.com/RonitJariwala/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/RonitJariwala/LeetCode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/RonitJariwala/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/RonitJariwala/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RonitJariwala/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/RonitJariwala/LeetCode/tree/master/0055-jump-game) |
@@ -531,6 +532,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0022-generate-parentheses](https://github.com/RonitJariwala/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/RonitJariwala/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/RonitJariwala/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/RonitJariwala/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/RonitJariwala/LeetCode/tree/master/0216-combination-sum-iii) |
