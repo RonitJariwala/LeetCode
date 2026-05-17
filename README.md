@@ -389,6 +389,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/RonitJariwala/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/RonitJariwala/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/RonitJariwala/LeetCode/tree/master/0136-single-number) |
@@ -434,6 +435,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0002-add-two-numbers](https://github.com/RonitJariwala/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/RonitJariwala/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RonitJariwala/LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/RonitJariwala/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/RonitJariwala/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RonitJariwala/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/RonitJariwala/LeetCode/tree/master/0189-rotate-array) |
