@@ -118,6 +118,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0162-find-peak-element](https://github.com/RonitJariwala/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/RonitJariwala/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/RonitJariwala/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/RonitJariwala/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/RonitJariwala/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -439,6 +440,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0048-rotate-image](https://github.com/RonitJariwala/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/RonitJariwala/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/RonitJariwala/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/RonitJariwala/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/RonitJariwala/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RonitJariwala/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/RonitJariwala/LeetCode/tree/master/0509-fibonacci-number) |
@@ -550,4 +552,12 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0078-subsets](https://github.com/RonitJariwala/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/RonitJariwala/LeetCode/tree/master/0216-combination-sum-iii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RonitJariwala/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RonitJariwala/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
