@@ -213,6 +213,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RonitJariwala/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RonitJariwala/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -236,6 +237,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0008-string-to-integer-atoi](https://github.com/RonitJariwala/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/RonitJariwala/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RonitJariwala/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/RonitJariwala/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/RonitJariwala/LeetCode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/RonitJariwala/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/RonitJariwala/LeetCode/tree/master/0151-reverse-words-in-a-string) |
