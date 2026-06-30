@@ -143,6 +143,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/RonitJariwala/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/RonitJariwala/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/RonitJariwala/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/RonitJariwala/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RonitJariwala/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -233,6 +234,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0907-sum-of-subarray-minimums](https://github.com/RonitJariwala/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/RonitJariwala/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2104-sum-of-subarray-ranges](https://github.com/RonitJariwala/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -241,6 +243,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0503-next-greater-element-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/RonitJariwala/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2104-sum-of-subarray-ranges](https://github.com/RonitJariwala/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## String
 |  |
 | ------- |
