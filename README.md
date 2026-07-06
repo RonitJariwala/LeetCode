@@ -105,6 +105,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0075-sort-colors](https://github.com/RonitJariwala/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/RonitJariwala/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/RonitJariwala/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/RonitJariwala/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -209,6 +210,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0045-jump-game-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RonitJariwala/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RonitJariwala/LeetCode/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/RonitJariwala/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/RonitJariwala/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RonitJariwala/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/RonitJariwala/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -222,6 +224,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | ------- |
 | [0020-valid-parentheses](https://github.com/RonitJariwala/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RonitJariwala/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/RonitJariwala/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -243,6 +246,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RonitJariwala/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/RonitJariwala/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/RonitJariwala/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RonitJariwala/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -514,6 +518,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0054-spiral-matrix](https://github.com/RonitJariwala/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RonitJariwala/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RonitJariwala/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/RonitJariwala/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/RonitJariwala/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
