@@ -238,6 +238,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0503-next-greater-element-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/RonitJariwala/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/RonitJariwala/LeetCode/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/RonitJariwala/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/RonitJariwala/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/RonitJariwala/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -250,6 +251,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0402-remove-k-digits](https://github.com/RonitJariwala/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/RonitJariwala/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/RonitJariwala/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/RonitJariwala/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/RonitJariwala/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -447,6 +449,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0225-implement-stack-using-queues](https://github.com/RonitJariwala/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RonitJariwala/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0901-online-stock-span](https://github.com/RonitJariwala/LeetCode/tree/master/0901-online-stock-span) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -599,4 +602,8 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RonitJariwala/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RonitJariwala/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/RonitJariwala/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
