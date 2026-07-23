@@ -1,13 +1,12 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
         n=len(s)
-        maxLenght=0
-        for i in range(n):
-            hash_set=[0]*256 #for asci characters
-            for j in range(i,n):
-                if hash_set[ord(s[j])]==1:
-                    break       
-                hash_set[ord(s[j])]=1
-                leng=j-i+1
-                maxLenght=max(maxLenght,leng)
-        return maxLenght
+        hash_len=[-1]*256
+        l,r,maxLen=0,0,0
+        while r<n:
+            if hash_len[ord(s[r])]!=-1:
+                l=max(hash_len[ord(s[r])]+1,l)
+            maxLen=max(maxLen,r-l+1)
+            hash_len[ord(s[r])]=r
+            r+=1
+        return maxLen
