@@ -141,6 +141,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0890-lemonade-change](https://github.com/RonitJariwala/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/RonitJariwala/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/RonitJariwala/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RonitJariwala/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/RonitJariwala/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RonitJariwala/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/RonitJariwala/LeetCode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -403,6 +404,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0560-subarray-sum-equals-k](https://github.com/RonitJariwala/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/RonitJariwala/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RonitJariwala/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RonitJariwala/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RonitJariwala/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -517,6 +519,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0169-majority-element](https://github.com/RonitJariwala/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/RonitJariwala/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RonitJariwala/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RonitJariwala/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Simulation
 |  |
@@ -634,6 +637,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0239-sliding-window-maximum](https://github.com/RonitJariwala/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/RonitJariwala/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/RonitJariwala/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RonitJariwala/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/RonitJariwala/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RonitJariwala/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RonitJariwala/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
