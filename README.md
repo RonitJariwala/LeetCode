@@ -135,6 +135,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0503-next-greater-element-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RonitJariwala/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RonitJariwala/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/RonitJariwala/LeetCode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/RonitJariwala/LeetCode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/RonitJariwala/LeetCode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/RonitJariwala/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -187,6 +188,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0410-split-array-largest-sum](https://github.com/RonitJariwala/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/RonitJariwala/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/RonitJariwala/LeetCode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/RonitJariwala/LeetCode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/RonitJariwala/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/RonitJariwala/LeetCode/tree/master/0890-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/RonitJariwala/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -206,6 +208,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0435-non-overlapping-intervals](https://github.com/RonitJariwala/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/RonitJariwala/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/RonitJariwala/LeetCode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/RonitJariwala/LeetCode/tree/master/0621-task-scheduler) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -404,6 +407,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0451-sort-characters-by-frequency](https://github.com/RonitJariwala/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/RonitJariwala/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/RonitJariwala/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/RonitJariwala/LeetCode/tree/master/0621-task-scheduler) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/RonitJariwala/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/RonitJariwala/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RonitJariwala/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -521,6 +525,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0169-majority-element](https://github.com/RonitJariwala/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/RonitJariwala/LeetCode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/RonitJariwala/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/RonitJariwala/LeetCode/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RonitJariwala/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/RonitJariwala/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Simulation
@@ -583,6 +588,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RonitJariwala/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/RonitJariwala/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/RonitJariwala/LeetCode/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
