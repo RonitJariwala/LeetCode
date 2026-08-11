@@ -139,6 +139,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0704-binary-search](https://github.com/RonitJariwala/LeetCode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/RonitJariwala/LeetCode/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/RonitJariwala/LeetCode/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/RonitJariwala/LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/RonitJariwala/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/RonitJariwala/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/RonitJariwala/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -193,6 +194,7 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 | [0621-task-scheduler](https://github.com/RonitJariwala/LeetCode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/RonitJariwala/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/RonitJariwala/LeetCode/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/RonitJariwala/LeetCode/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/RonitJariwala/LeetCode/tree/master/0890-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/RonitJariwala/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
